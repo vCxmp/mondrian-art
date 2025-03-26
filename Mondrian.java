@@ -1,6 +1,5 @@
 /*
  * Veer Desai
- * C2: Mondrian Art
  */
 import java.util.*;
 import java.awt.*;
