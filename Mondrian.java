@@ -1,6 +1,4 @@
-/*
- * Veer Desai
- */
+
 import java.util.*;
 import java.awt.*;
 
