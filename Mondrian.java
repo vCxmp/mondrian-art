@@ -2,8 +2,6 @@
  * Veer Desai
  * CSE 123
  * C2: Mondrian Art
- * TA: Isayiah Lim
- * 2/17/25
  */
 import java.util.*;
 import java.awt.*;
