@@ -1,6 +1,5 @@
 /*
  * Veer Desai
- * CSE 123
  * C2: Mondrian Art
  */
 import java.util.*;
